@@ -132,3 +132,6 @@ dmypy.json
 # Custom
 /.idea
 /.vscode
+/meta/items/*
+!/meta/items/example.json
+!/meta/items/example_desc.json
