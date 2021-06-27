@@ -1,6 +1,13 @@
-{
-    "name": "Name of Artifact",
-    "type": "Type of Artifact",
-    "attuned": false
-}
+[
+    {
+        "name": "Name of Artifact",
+        "type": "Type of Artifact",
+        "attuned": false
+    },
+    {
+        "name": "The file needs to be named by item rarity (common, uncommon etc.)",
+        "type": "If there is no file with every rarity, absent category won't work",
+        "attuned": true
+    }
+]
 
